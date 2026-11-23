@@ -51,8 +51,8 @@ The complete settings, including the DAG optimizer and intervention filters, are
 
 Compare the generated `per_seed.csv` with [reference/ad1_metrics.csv](reference/ad1_metrics.csv). The reference file contains the original five runs and both selection rules. For the default seed 42, the archived values are:
 
-| Epoch | ACC (%) | NMI (%) | ARI (%) |
-|  ---: | ---: | ---: | ---: |
+| ACC (%) | NMI (%) | ARI (%) |
+| ---: | ---: | ---: |
 |  89.58 | 72.39 | 73.17 |
 
 
