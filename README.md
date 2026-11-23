@@ -53,7 +53,7 @@ Compare the generated `per_seed.csv` with [reference/ad1_metrics.csv](reference/
 
 | Epoch | ACC (%) | NMI (%) | ARI (%) |
 |  ---: | ---: | ---: | ---: |
-|  ACC | 374 | 89.58 | 72.39 | 73.17 |
+|  89.58 | 72.39 | 73.17 |
 
 
 Across the five original runs, the ACC results were **89.38 ± 1.36% ACC**, **71.60 ± 2.59% NMI**, and **72.70 ± 3.53% ARI** (mean ± sample standard deviation). CSV scores are fractions. Operating systems and numerical libraries can affect the optimization trajectory.
